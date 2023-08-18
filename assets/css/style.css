@@ -11,8 +11,6 @@ body {
 body {
   text-align: left;
   font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
   position: relative;
 }
 
@@ -66,12 +64,6 @@ body {
 
 
 /*cabeçalho*/
-
-.search-icon {
-  position: relative;
-  left: -25px;
-}
-
 
 .cabecalho {
   position: relative;
@@ -320,8 +312,6 @@ p {
 .nome {
   font-size: 20px !important;
 }
-
-
 
 
 /*Contato*/
